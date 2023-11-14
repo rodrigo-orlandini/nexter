@@ -10,7 +10,7 @@ A landing page created to study CSS.
 
 ### Related Projects
 
-This project was built during a CSS course and it is the first one of three:
+This project was built during a CSS course and it is the third one of three:
 
 - [Natours](https://github.com/rodrigo-orlandini/natours)
 - [Trillo](https://github.com/rodrigo-orlandini/trillo)
